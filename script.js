@@ -72,27 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // 5. Typing Logic
-    const fullText = `We met as diploma students, barely knowing each other. I don’t even remember when I realized you were my classmate — maybe second year, maybe later. But somehow, you became one of the most important people in my story.
-
-You saved me more than you’ll ever know. I passed my exams because of you. Even though we weren’t that close, you were the first person I reached out to… and you showed up for me. Sometimes I think — if I hadn’t texted you that day, maybe I would’ve lost a year. But I did, and you helped me without making it a big thing.
-
-From then on, everything between us felt like our quiet little world — the talks, the support, the secrets we kept for each other. We may have different paths now, and maybe there are still things left unsaid… but that’s the beauty of our friendship. It’s simple, strong, and a little special in its own way.
-
-I’m really sorry I missed wishing you on your birthday. Belated wishes, IYER. You truly are one of the best people I know.
-
-And yes… I’m still waiting for that party. 😊
-
-If you want it slightly more romantic or slightly more “bro-zone safe,” tell me which direction you want 😌
-
-i need more romantic and little big
-
-Okay Deepak…
-More romantic — but still respectful, still friendship-based, not crossing lines 🤍
-Something that feels warm… like a memory you don’t want to lose.
-
-Here you go:
-
-We met as diploma students, two people in the same class who barely even noticed each other. I don’t even remember when I realized you were my classmate — maybe it was second year… or maybe some memories fade, but the important ones somehow stay.
+    const fullText = `We met as diploma students, two people in the same class who barely even noticed each other. I don’t even remember when I realized you were my classmate — maybe it was second year… or maybe some memories fade, but the important ones somehow stay.
 
 What I’ll never forget is this — you saved me in ways you’ll probably never fully understand.
 
@@ -108,7 +88,7 @@ There are still things we’ve never said. There are still feelings we wrapped i
 
 I’m really sorry I couldn’t wish you on your birthday. You deserved better from me. But even if I’m late — happy birthday, IYER. You truly are one of the best people to have walked into my life.
 
-And honestly… I’m still waiting for that party. 😊 ☕`;
+And honestly… I’m still waiting for that party. 😊;
 
     let charIndex = 0;
     let currentYOffset = 0;
