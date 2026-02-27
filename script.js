@@ -71,24 +71,8 @@ document.addEventListener("DOMContentLoaded", () => {
         }, 1500);
     });
 
-    // 5. Typing Logic
-    const fullText = `We met as diploma students, two people in the same class who barely even noticed each other. I don’t even remember when I realized you were my classmate — maybe it was second year… or maybe some memories fade, but the important ones somehow stay.
-
-What I’ll never forget is this — you saved me in ways you’ll probably never fully understand.
-
-When I was struggling with exams, when I didn’t know what to do, you were the first person I reached out to. Not because we were the closest… but because somewhere inside, I felt you would understand. And you did. You helped me without hesitation, without making me feel small, without expecting anything back.
-
-Sometimes I sit and think… what if I hadn’t messaged you that day? Maybe I would have written re-exams. Maybe I would’ve wasted another year. But I did reach out. And you were there. That one decision changed so much for me.
-
-From that day, something shifted. Everything between us became this quiet, beautiful secret — the late conversations, the small updates, the way we warned each other about who talks behind our backs, the silent support during tough days. It was never loud. Never dramatic. But it was real.
-
-We’ve always had different paths, different dreams, different directions in life. And maybe that’s okay. Maybe not everything beautiful is meant to be complicated. Some bonds are just meant to exist softly — somewhere between friendship and something that words can’t fully define.
-
-There are still things we’ve never said. There are still feelings we wrapped inside jokes and casual talks. And maybe that’s the beauty of it. Not everything needs a label to be meaningful.
-
-I’m really sorry I couldn’t wish you on your birthday. You deserved better from me. But even if I’m late — happy birthday, IYER. You truly are one of the best people to have walked into my life.
-
-And honestly… I’m still waiting for that party. 😊;
+   // 5. Typing Logic
+    const fullText = `We met as diploma students, two people in the same class who barely even noticed each other. I don’t even remember when I realized you were my classmate — maybe it was second year… or maybe some memories fade, but the important ones somehow stay.\n\nWhat I’ll never forget is this — you saved me in ways you’ll probably never fully understand.\n\nWhen I was struggling with exams, when I didn’t know what to do, you were the first person I reached out to. Not because we were the closest… but because somewhere inside, I felt you would understand. And you did. You helped me without hesitation, without making me feel small, without expecting anything back.\n\nSometimes I sit and think… what if I hadn’t messaged you that day? Maybe I would have written re-exams. Maybe I would’ve wasted another year. But I did reach out. And you were there. That one decision changed so much for me.\n\nFrom that day, something shifted. Everything between us became this quiet, beautiful secret — the late conversations, the small updates, the way we warned each other about who talks behind our backs, the silent support during tough days. It was never loud. Never dramatic. But it was real.\n\nWe’ve always had different paths, different dreams, different directions in life. And maybe that’s okay. Maybe not everything beautiful is meant to be complicated. Some bonds are just meant to exist softly — somewhere between friendship and something that words can’t fully define.\n\nThere are still things we’ve never said. There are still feelings we wrapped inside jokes and casual talks. And maybe that’s the beauty of it. Not everything needs a label to be meaningful.\n\nI’m really sorry I couldn’t wish you on your birthday. You deserved better from me. But even if I’m late — happy birthday, IYER. You truly are one of the best people to have walked into my life.\n\nAnd honestly… I’m still waiting for that party. 😊\n\nThere’s something called journaling… it’s about preserving something personal. And I genuinely want to thank you for teaching me that.\n\nI never used to write things down, especially not my dreams. I realized that the first few minutes after waking up are important. If I let other thoughts enter my mind, the dream slowly fades away.\n\nSo I started writing immediately after waking up, just whatever I could remember.\n\nAfter seeing your work, something clicked for me. I understood that writing isn’t just about preserving something personal.\n\nIn a world where so much of our lives feels visible and public, journaling feels different. It feels private. It feels intentional. It feels like something that is ONLY I KNOW.\n\nAnd I genuinely want to thank you for that.\n\nI’m someone who wants to learn and keep learning. Sometimes we don’t even realize who teaches us something valuable in life — but in this case, you did.\n\nSo... coffee? ☕`;
 
     let charIndex = 0;
     let currentYOffset = 0;
